@@ -1478,6 +1478,7 @@ AC_CHECK_HEADERS(m4_normalize([
 	sys/procctl.h
 	sys/signalfd.h
 	sys/ucred.h
+	sys/utsname.h
 	termios.h
 	ucred.h
 ]))
